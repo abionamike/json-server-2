@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+
+body {
+  color: #495057;
+}
+
+.navbar {
+  background-color: #444;
+}
+
+.navbar-brand {
+  color: #fff!important;
+}
+
+.nav-link {
+  color: #fff!important;
+}
+
+span {
+  color: #36cca2;
+  cursor: pointer;
+}
